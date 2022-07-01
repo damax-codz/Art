@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Art/static/css/main.c484b0c4.css",
+    "main.js": "/Art/static/js/main.43f3b17e.js",
+    "static/js/787.c202ca43.chunk.js": "/Art/static/js/787.c202ca43.chunk.js",
+    "static/media/dance.png": "/Art/static/media/dance.89e7d79c5027da307feb.png",
+    "static/media/lit.jpg": "/Art/static/media/lit.4815ead7a5ccb684d7b1.jpg",
+    "static/media/mam.jpg": "/Art/static/media/mam.1cb20ff4bbc6845b44c9.jpg",
+    "static/media/anim.jpg": "/Art/static/media/anim.399d474578bc8a52cf09.jpg",
+    "static/media/haus.jpg": "/Art/static/media/haus.0001d36efc9fd305a2c0.jpg",
+    "static/media/mil.jpg": "/Art/static/media/mil.29a009ad42367e557cd9.jpg",
+    "static/media/mast.jpg": "/Art/static/media/mast.0c7af176da88486a7a2f.jpg",
+    "static/media/mon.jpg": "/Art/static/media/mon.ac01f2423a5113125931.jpg",
+    "static/media/eat.jpg": "/Art/static/media/eat.996fde5421b6754bd5f0.jpg",
+    "static/media/umb.jpg": "/Art/static/media/umb.04ea296cc0716df45439.jpg",
+    "static/media/nig.jpg": "/Art/static/media/nig.4f5e7a1e059229f44c1d.jpg",
+    "static/media/flow.jpg": "/Art/static/media/flow.dcab613f4d8185291822.jpg",
+    "static/media/hand.jpg": "/Art/static/media/hand.b768f4e50075d162f41f.jpg",
+    "static/media/logo.svg": "/Art/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Art/index.html",
+    "main.c484b0c4.css.map": "/Art/static/css/main.c484b0c4.css.map",
+    "main.43f3b17e.js.map": "/Art/static/js/main.43f3b17e.js.map",
+    "787.c202ca43.chunk.js.map": "/Art/static/js/787.c202ca43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c484b0c4.css",
+    "static/js/main.43f3b17e.js"
+  ]
+}
